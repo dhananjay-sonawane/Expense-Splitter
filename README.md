@@ -54,8 +54,13 @@ Imagine a trip with 4 members: A, B, C, and D, where everyday expenses are share
 - PWA Architecture
 
 ## Screenshots
-![Expense Splitter](screenshot 1.png)
-![Expense Splitter](screenshot 2.png)
-![Expense Splitter](screenshot 3.png)
-![Expense Splitter](screenshot 4.png)
+<img width="985" height="851" alt="Screenshot 1" src="https://github.com/user-attachments/assets/65ff6376-e7d3-4d98-90b9-06cf353d067f" />
+<img width="970" height="702" alt="Screenshot 2" src="https://github.com/user-attachments/assets/04c115e0-44ee-4cdd-9f00-60a491c94521" />
+<img width="974" height="529" alt="Screenshot 3" src="https://github.com/user-attachments/assets/ef2efedd-5615-4534-86f7-dd586c8c0a54" />
+<img width="975" height="627" alt="Screenshot 4" src="https://github.com/user-attachments/assets/724b48a4-eeb1-4bd1-a106-945cc655e91e" />
+
+
+
+
+
 
